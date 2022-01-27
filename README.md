@@ -1,16 +1,43 @@
-### Hi there 👋
+Languages:
 
-<!--
-**WhalesState/WhalesState** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  - Arabic
+  - English
 
-Here are some ideas to get you started:
+Football Club:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - LiverPool - Mo Salah
+
+Favorite pet:
+
+  - Cat
+
+Favorite animal:
+
+  - Arctic wolf
+
+Favorite Color:
+
+  - Blue
+
+Favorite Games:
+
+  - MineSweeper
+  - Suduko
+
+I love to use:
+
+  - Ubuntu-Cinnamon
+  - Blender
+  - Aseprite
+  - PixelEdit
+  - GodotEngine
+  - Vscode
+  - Inkscape
+  - Audacity
+  - LMMS
+  - PixelComposer
+  - PaletteKnife
+  - JuiceFX
+  - SmearFX
+  - Xnormal
+  - TextureLab
