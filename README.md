@@ -5,7 +5,7 @@ Languages:
 
 Football Club:
 
-  - LiverPool - Mo Salah
+  - Liverpool - Mo Salah
 
 Favorite pet:
 
