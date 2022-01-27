@@ -41,3 +41,7 @@ I love to use:
   - SmearFX
   - Xnormal
   - TextureLab
+
+
+[Learn More About me](https://gist.github.com/WhalesState/0d5f3d8c616ab2671e429047bde9baab)
+
