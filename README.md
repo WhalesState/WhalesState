@@ -39,8 +39,6 @@ I love to use:
   - [PaletteKnife](https://zingot.itch.io/palette-knife)
   - [JuiceFX](https://codemanu.itch.io/juicefx)
   - [SmearFX](https://codemanu.itch.io/smear-fx)
-  - [Xnormal](https://xnormal.net/)
-  - [TextureLab](https://www.texturelab.io/)
 
 
 [Learn More About me](https://gist.github.com/WhalesState/0d5f3d8c616ab2671e429047bde9baab)
