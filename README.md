@@ -26,7 +26,7 @@ Favorite Games:
 
 I love to use:
 
-  - [Ubuntu-Cinnamon](https://ubuntucinnamon.org/)
+  - [Ubuntu](https://ubuntu.com/)
   - [Blender](https://www.blender.org/)
   - [Aseprite](https://www.aseprite.org/)
   - [PyxelEdit](https://pyxeledit.com/)
