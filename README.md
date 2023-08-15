@@ -1,45 +1,19 @@
-Languages:
+## Introduction
+Hello, I'm Mounir Tohami, an Indie Developer passionate about the future of open-source. With 3 years of experience in 3D and 3 years in development, I enjoy tackling complex problems and creating innovative solutions.
 
-  - Arabic
-  - English
+## Background
+I pursued my dream of making my own games, teaching myself programming and 3D art. I started with Game Maker Studio but transitioned to Blender and Zbrush for 3D modeling. Learning Substance Designer allowed me greater control over texturing, while rigging and animating became part of my skillset. Although I initially struggled with Unity and its compile times, I found success with Godot, appreciating its smooth learning curve and the ability to release my first three projects. However, after three years of working with Godot, I realized its limitations in terms of building simple tools or projects. This led me to hard fork Godot and create my own engine called Pixel Engine. Despite the challenges, I remain dedicated to Godot and other open-source projects, focusing on 2D development and pixel art.
 
-Football Club:
+## Skills
+I primarily use Godot, Aseprite, VSCode, and Inkscape. Additionally, I have experience with Blender, Zbrush, LMMS, FL Studio, and Ubuntu.
 
-  - Liverpool - Mo Salah
+## Interests
+My work consumes most of my time, but I still enjoy playing games and reading books during power outages.
 
-Favorite pet:
+## Contact
+- Email: whalesstate@gmail.com
+- Discord: @whalesstate
 
-  - Cat
+Feel free to reach out to me with any questions or collaboration opportunities. I'm always open to new projects and eager to contribute to exciting ventures.
 
-Favorite animal:
-
-  - Arctic wolf
-
-Favorite Color:
-
-  - Blue
-
-Favorite Games:
-
-  - MineSweeper
-  - Suduko
-
-I love to use:
-
-  - [Ubuntu](https://ubuntu.com/)
-  - [Blender](https://www.blender.org/)
-  - [Aseprite](https://www.aseprite.org/)
-  - [PyxelEdit](https://pyxeledit.com/)
-  - [GodotEngine](https://godotengine.org/)
-  - [VSCode](https://code.visualstudio.com/)
-  - [Inkscape](https://inkscape.org/)
-  - [Audacity](https://www.audacityteam.org/)
-  - [LMMS](https://lmms.io/)
-  - [PixelComposer](https://makham.itch.io/pixel-composer)
-  - [PaletteKnife](https://zingot.itch.io/palette-knife)
-  - [JuiceFX](https://codemanu.itch.io/juicefx)
-  - [SmearFX](https://codemanu.itch.io/smear-fx)
-
-
-[Learn More About me](https://gist.github.com/WhalesState/0d5f3d8c616ab2671e429047bde9baab)
-
+Thank you for taking the time to learn more about me!
